@@ -1,0 +1,8 @@
+C:\Users\Leny\Desktop\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe.config
+C:\Users\Leny\Desktop\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe
+C:\Users\Leny\Desktop\06.MaximalKSum\bin\Debug\06.MaximalKSum.pdb
+C:\Users\Leny\Desktop\06.MaximalKSum\obj\Debug\06.MaximalKSum.exe
+C:\Users\Leny\Desktop\06.MaximalKSum\obj\Debug\06.MaximalKSum.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\06.MaximalKSum\bin\Debug\06.MaximalKSum.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\06.MaximalKSum\obj\Debug\06.MaximalKSum.pdb

@@ -1,0 +1,12 @@
+C:\Users\Leny\Desktop\14.QuickSort\bin\Debug\14.QuickSort.exe.config
+C:\Users\Leny\Desktop\14.QuickSort\bin\Debug\14.QuickSort.exe
+C:\Users\Leny\Desktop\14.QuickSort\bin\Debug\14.QuickSort.pdb
+C:\Users\Leny\Desktop\14.QuickSort\obj\Debug\14.QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Leny\Desktop\14.QuickSort\obj\Debug\14.QuickSort.exe
+C:\Users\Leny\Desktop\14.QuickSort\obj\Debug\14.QuickSort.pdb
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\14.QuickSort\bin\Debug\14.QuickSort.exe.config
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\14.QuickSort\obj\Debug\14.QuickSort.exe
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\14.QuickSort\obj\Debug\14.QuickSort.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\14.QuickSort\bin\Debug\14.QuickSort.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\14.QuickSort\obj\Debug\14.QuickSort.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\14.QuickSort\obj\Debug\14.QuickSort.pdb

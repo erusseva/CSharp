@@ -1,0 +1,12 @@
+C:\Users\Leny\Desktop\01.AllocateArray\bin\Debug\01.AllocateArray.exe.config
+C:\Users\Leny\Desktop\01.AllocateArray\bin\Debug\01.AllocateArray.exe
+C:\Users\Leny\Desktop\01.AllocateArray\bin\Debug\01.AllocateArray.pdb
+C:\Users\Leny\Desktop\01.AllocateArray\obj\Debug\01.AllocateArray.csprojResolveAssemblyReference.cache
+C:\Users\Leny\Desktop\01.AllocateArray\obj\Debug\01.AllocateArray.exe
+C:\Users\Leny\Desktop\01.AllocateArray\obj\Debug\01.AllocateArray.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.pdb
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.exe.config
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.exe
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.pdb

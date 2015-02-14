@@ -1,0 +1,11 @@
+C:\Users\Leny\Desktop\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe.config
+C:\Users\Leny\Desktop\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe
+C:\Users\Leny\Desktop\04.MaximalSequence\bin\Debug\04.MaximalSequence.pdb
+C:\Users\Leny\Desktop\04.MaximalSequence\obj\Debug\04.MaximalSequence.exe
+C:\Users\Leny\Desktop\04.MaximalSequence\obj\Debug\04.MaximalSequence.pdb
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe.config
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\04.MaximalSequence\obj\Debug\04.MaximalSequence.exe
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\04.MaximalSequence\obj\Debug\04.MaximalSequence.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\04.MaximalSequence\bin\Debug\04.MaximalSequence.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\04.MaximalSequence\obj\Debug\04.MaximalSequence.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\04.MaximalSequence\obj\Debug\04.MaximalSequence.pdb

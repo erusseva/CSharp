@@ -1,0 +1,8 @@
+C:\Users\Leny\Desktop\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+C:\Users\Leny\Desktop\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+C:\Users\Leny\Desktop\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+C:\Users\Leny\Desktop\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+C:\Users\Leny\Desktop\07.SelectionSort\obj\Debug\07.SelectionSort.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

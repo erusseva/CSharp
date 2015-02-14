@@ -1,0 +1,9 @@
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.exe.config
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.exe
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.pdb
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.csprojResolveAssemblyReference.cache
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.exe
+C:\Users\Ellly\Documents\Visual Studio 2013\Projects\Arrays\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\20.VariationsOfSet\bin\Debug\20.VariationsOfSet.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\Arrays\20.VariationsOfSet\obj\Debug\20.VariationsOfSet.pdb
