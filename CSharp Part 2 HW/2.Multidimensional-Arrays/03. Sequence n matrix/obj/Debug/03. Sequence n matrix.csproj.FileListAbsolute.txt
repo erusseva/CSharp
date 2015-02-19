@@ -1,0 +1,6 @@
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\03. Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\03. Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\03. Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\03. Sequence n matrix\obj\Debug\_03.Sequence_n_matrix.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\03. Sequence n matrix\obj\Debug\_03.Sequence_n_matrix.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\03. Sequence n matrix\obj\Debug\03. Sequence n matrix.csprojResolveAssemblyReference.cache

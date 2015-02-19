@@ -1,0 +1,5 @@
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\04. Binary search\bin\Debug\_04.Binary_search.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\04. Binary search\bin\Debug\_04.Binary_search.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\04. Binary search\bin\Debug\_04.Binary_search.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\04. Binary search\obj\Debug\_04.Binary_search.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\04. Binary search\obj\Debug\_04.Binary_search.pdb

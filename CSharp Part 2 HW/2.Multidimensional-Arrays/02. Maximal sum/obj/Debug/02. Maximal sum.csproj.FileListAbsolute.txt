@@ -1,0 +1,11 @@
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\02. Maximal sum\bin\Debug\_02.Maximal_sum.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\02. Maximal sum\bin\Debug\_02.Maximal_sum.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\02. Maximal sum\bin\Debug\_02.Maximal_sum.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\02. Maximal sum\obj\Debug\_02.Maximal_sum.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\CShapt 2 Homework Templates with comments\02. Multidimensional Arrays - Homework\02. Maximal sum\obj\Debug\_02.Maximal_sum.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\02. Maximal sum\bin\Debug\_02.Maximal_sum.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\02. Maximal sum\obj\Debug\_02.Maximal_sum.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\02. Maximal sum\bin\Debug\_02.Maximal_sum.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\02. Maximal sum\bin\Debug\_02.Maximal_sum.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\02. Maximal sum\obj\Debug\02. Maximal sum.csprojResolveAssemblyReference.cache
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\02. Maximal sum\obj\Debug\_02.Maximal_sum.pdb

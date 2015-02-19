@@ -1,0 +1,5 @@
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\06.(opt) Matrix class\bin\Debug\06.(opt) Matrix class.exe.config
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\06.(opt) Matrix class\bin\Debug\06.(opt) Matrix class.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\06.(opt) Matrix class\bin\Debug\06.(opt) Matrix class.pdb
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\06.(opt) Matrix class\obj\Debug\06.(opt) Matrix class.exe
+C:\Users\Leny\Documents\Visual Studio 2013\Projects\02. Multidimensional Arrays - Homework\06.(opt) Matrix class\obj\Debug\06.(opt) Matrix class.pdb
