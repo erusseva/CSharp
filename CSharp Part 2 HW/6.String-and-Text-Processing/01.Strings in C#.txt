@@ -1,0 +1,26 @@
+Problem 1. Strings in C#.
+
+Describe the strings in C#.
+What is typical for the string data type?
+Describe the most important methods of the String class.
+
+Answer:
+A string is a sequential collection of Unicode characters that is used to represents text. A String object is a sequential collection of System.Char objects that represents a string. The value of the String object is the content of the sequential collection, and that value is immutable (read-only). The maximum size  of a String object in memory is 2 GB, or about 1 billion characters. This type allows us to manipulate character data through different methods and properties.
+
+Some of the most important methods are the following:
+* Get length of the string (text.Length)
+* Convert to uppercase (text.ToUpper())
+* Convert to lowercase (text.ToLower())
+* Substring (text.Substring())
+* Remove leading or trailing whitespace (text.Trim())
+* Split String by a char (text.Split(' '))
+* Finding the index of a element(or string) (text.IndexOf())
+* Creating a copy of the string(not the reference var) (text. Copy())
+* Checks if two reference vars are equal (object.ReferenceEquals(,))
+* Concatenates 2 strings (string.Concat(,))
+* Append (similar to concatenate) text = text + textToAppend
+* Replacing text in string (text. Replace(,))
+* Comparison string.Compare(), or string1.CompareTo(string2)
+	- returns 1 if the string1 is bigger than string2
+	- returns -1 if the string2 is bigger than string1
+	- returns 0 if they are of the same size
